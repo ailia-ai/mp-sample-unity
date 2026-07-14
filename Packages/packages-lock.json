@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "ai.ailia.mp_sdk": {
+      "version": "https://github.com/ailia-ai/mp-sdk-unity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "09dfdfa62b1eb69eb0e2749fa6d1a9056f0f00f1"
+    },
     "com.unity.burst": {
       "version": "1.8.29",
       "depth": 2,
