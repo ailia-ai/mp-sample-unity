@@ -30,5 +30,5 @@ You can also build, install and run a standalone application for each platform.
 
 For details on how to operate the sample program, please refer to the operation manual at the link below.
 
-[Operation Manual](https://20260721t153145-dot-ailia-ai-web.wl.r.appspot.com/mp/docs/pdf/mpsdk_unity_manual_ja.pdf)
+[日本語版](https://20260721t153145-dot-ailia-ai-web.wl.r.appspot.com/mp/docs/pdf/mpsdk_unity_manual_ja.pdf)
 
