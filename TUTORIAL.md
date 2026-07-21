@@ -23,3 +23,5 @@ This repository automatically download MP Animator SDK from Unity Package manage
 You can run it by opening the sample scene (Assets/Scenes/mpSampleScene.unity) and pressing the Play button.
 
 ![run](Demo/run.png)
+
+You can also build, install and run a standalone application for each platform.

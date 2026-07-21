@@ -2,6 +2,8 @@
 
 This is a sample program that uses MP Animator.
 
+![avatar](Demo/avatar.png)
+
 # How to use
 
-[MP Animator Unity Tutorial](TUTORIAL.md)
+[MP Animator Unity Sample Tutorial](TUTORIAL.md)
