@@ -28,7 +28,9 @@ You can also build, install and run a standalone application for each platform.
 
 ## Operation Manual
 
-For details on how to operate the sample program, please refer to the operation manual at the link below.
+For details on how to operate the sample program, please refer to the operation manuals at the links below.
 
-[日本語版](https://20260721t153145-dot-ailia-ai-web.wl.r.appspot.com/mp/docs/pdf/mpsdk_unity_manual_ja.pdf)
+[English Version](https://20260731t204501-dot-ailia-ai-web.wl.r.appspot.com/mp/docs/mp_animator_unity_manual_en.pdf)
+
+[Japanese Version](https://20260731t204501-dot-ailia-ai-web.wl.r.appspot.com/mp/docs/mp_animator_unity_manual_ja.pdf)
 
