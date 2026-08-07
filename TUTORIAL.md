@@ -30,7 +30,7 @@ You can also build, install and run a standalone application for each platform.
 
 For details on how to operate the sample program, please refer to the operation manuals at the links below.
 
-[English Version](https://20260731t204501-dot-ailia-ai-web.wl.r.appspot.com/mp/docs/mp_animator_unity_manual_en.pdf)
+[English Version](http://ailia.ai/mp/docs/mp_animator_unity_manual_en.pdf)
 
-[Japanese Version](https://20260731t204501-dot-ailia-ai-web.wl.r.appspot.com/mp/docs/mp_animator_unity_manual_ja.pdf)
+[Japanese Version](http://ailia.ai/mp/docs/mp_animator_unity_manual_ja.pdf)
 
