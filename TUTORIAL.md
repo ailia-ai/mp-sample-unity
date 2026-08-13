@@ -13,7 +13,7 @@
 Clone this repository and open the project in unity.
 
 ```
-git clone git@github.com:ailia-ai/mp-sample-unity.git
+git clone https://github.com/ailia-ai/mp-sample-unity.git
 ```
 
 This repository automatically download MP Animator SDK from Unity Package manager.
